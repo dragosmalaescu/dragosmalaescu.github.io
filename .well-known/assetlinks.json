@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.malaescu.rola",
+      "sha256_cert_fingerprints": [
+        "72:42:4D:2E:B6:E9:30:CF:80:F7:17:98:B2:E7:B7:C6:27:09:5D:18:6F:A5:4C:51:C5:62:F1:61:D5:14:A9:E4"
+      ]
+    }
+  }
+]
